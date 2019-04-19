@@ -1,0 +1,36 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Friend finder application using Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notintheup/FriendFinder.git"
+  },
+  "keywords": [
+    "friend",
+    "bootcamp",
+    "uncc",
+    "finder",
+    "lonely",
+    "desperate",
+    "housewife",
+    "teacher",
+    "dog",
+    "lover"
+  ],
+  "author": "notintheup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notintheup/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/notintheup/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
